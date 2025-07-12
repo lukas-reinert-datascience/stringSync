@@ -6,18 +6,18 @@ StringSync categorizes work tasks into projects. A project is defined as one lis
 To create a project, click the "+" button. Then load the project to start working on it.
 
 ## Installation
-StringSync requires R4.0.0+ and the following libaries
-- shiny  
-- shinyjs  
-- shinyalert  
-- shinyWidgets  
-- shinydashboard  
-- shinydashboardPlus  
-- ggplot2  
-- DT  
-- RSQLite  
-- plotly  
-- stringdist
+StringSync requires R > 4.0 and the following libraries:
+- `shiny` (v1.8.1.1)  
+- `shinyjs` (v2.1.0)  
+- `shinyalert` (v3.0.0)  
+- `shinyWidgets` (v0.7.6)  
+- `shinydashboard` (v0.7.2)  
+- `shinydashboardPlus` (v2.0.3)  
+- `ggplot2` (v3.5.1)  
+- `DT` (v0.19)  
+- `RSQLite` (v2.3.1)  
+- `plotly` (v4.10.4)  
+- `stringdist` (v0.9.10)
 
 ## Creating a project
 Click the "+" button to open the project setup dialog. Upload your list of strings as a plain text file with one string per line.
