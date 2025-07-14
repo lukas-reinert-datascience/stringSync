@@ -38,7 +38,8 @@ The current string appears next, followed by the selected string-comparison meth
 - **Levenshtein distance**: Measures the number of single-character edits needed to match the string.  
 - **Longest common substring**: Finds the longest shared sequence between the string and potential matches.  
 - **Entire reference catalog**: Displays the entire reference catalog for manual candidate search. 
-Matching candidates appear in a table. The user selects the most likely match(es) and rates them using one of five buttons at the bottom.
+
+Matching candidates appear in a table. Select the most likely match(es) and rate them using one of five buttons at the bottom.
 
 
 ## Settings
